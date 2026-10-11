@@ -1,0 +1,4 @@
+ID Command line                      Date and time       Action(s) Altered
+ 3 dnf install nginx libcap-ng-utils 2026-10-11 18:32:01                 9
+ 2 dnf -y upgrade                    2026-10-11 18:23:44               834
+ 1                                   2026-10-11 17:49:34               786
